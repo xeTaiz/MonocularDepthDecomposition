@@ -1,0 +1,11 @@
+pytorch_lightning
+opencv-python
+scipy
+h5py
+tqdm
+timm
+torch
+taichi
+git+https://github.com/aliutkus/torchinterp1d@master#egg=torchinterp1d
+git+https://github.com/xeTaiz/torchvtk@master#egg=torchvtk
+git+https://github.com/LuDubies/Differender@generate_depth#egg=differender
