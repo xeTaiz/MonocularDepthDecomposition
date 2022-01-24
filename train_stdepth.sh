@@ -1,1 +1,1 @@
-python ./train.py --min_epochs 10 --max_epochs 50 --gpus -1 --worker 6 midas --learning_rate 1e-5 --batch_size 16 --loss mse --pretrained 0 stdepth --path '/mnt/hdd/dome/STDepth_data' --training --validation
+python mono-depth-estimation/train.py --min_epochs 10 --max_epochs 50 --gpus -1 --worker 6 midas --learning_rate 1e-5 --batch_size 16 --loss mse --pretrained 0 stdepth --path '/mnt/hdd/dome/STDepth_data' --training --validation
