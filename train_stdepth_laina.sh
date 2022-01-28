@@ -1,0 +1,1 @@
+python mono-depth-estimation/train.py --min_epochs 10 --max_epochs 50 --gpus -1 --worker 6 laina --learning_rate 0.0001 --batch_size 8 stdepth --path '/mnt/hdd/dome/STDepth_data2' --training --validation
