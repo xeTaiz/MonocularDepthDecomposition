@@ -1,0 +1,4 @@
+submit "./train_stdepth_dorn.sh first_hit" --pytorch --requirements mono-depth-estimation/requirements.txt --name dorn-firsthit --apt-install libsm6 libxext6 libxrender-dev libglib2.0-0 libgl1-mesa-glx git python3-opencv --exclude worker2
+submit "./train_stdepth_dorn.sh max_opacity" --pytorch --requirements mono-depth-estimation/requirements.txt --name dorn-maxopacity --apt-install libsm6 libxext6 libxrender-dev libglib2.0-0 libgl1-mesa-glx git python3-opencv --exclude worker2
+submit "./train_stdepth_dorn.sh max_gradient" --pytorch --requirements mono-depth-estimation/requirements.txt --name dorn-maxgradient --apt-install libsm6 libxext6 libxrender-dev libglib2.0-0 libgl1-mesa-glx git python3-opencv --exclude worker2
+submit "./train_stdepth_dorn.sh wysiwyg" --pytorch --requirements mono-depth-estimation/requirements.txt --name dorn-wysiwyg --apt-install libsm6 libxext6 libxrender-dev libglib2.0-0 libgl1-mesa-glx git python3-opencv --exclude worker2
