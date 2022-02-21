@@ -1,0 +1,1 @@
+submit train_scripts/train_test_wandb.sh --pytorch --requirements mono-depth-estimation/requirements.txt --name vnl-firsthit --apt-install libsm6 libxext6 libxrender-dev libglib2.0-0 libgl1-mesa-glx git python3-opencv --exclude worker2
