@@ -3,3 +3,8 @@
 **/__pycache__
 **/.mypy_cache
 slurm_*.out
+slurm_log
+result
+network
+wandb
+stdepth
