@@ -1,5 +1,6 @@
 jupyter
 notebook
+jupyter_contrib_nbextensions
 pytorch_lightning
 opencv-python
 scipy
