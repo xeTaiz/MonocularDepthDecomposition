@@ -1,3 +1,4 @@
 [submodule "mono-depth-estimation"]
 	path = mono-depth-estimation
-	url = git@gitlab-mi.informatik.uni-ulm.de:ifr97/mono-depth-estimation.git
+	url = git@github.com:xeTaiz/mono-depth-estimation.git
+	branch = stdepthmulti
