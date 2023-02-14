@@ -10,7 +10,7 @@ If you find our work useful, please cite our paper:
   author={Engel, Dominik and Hartwig, Sebastian and Ropinski, Timo},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2023},
-  doi={TODO},
+  doi={10.1109/TVCG.2023.3245305},
 }
 ```
 
