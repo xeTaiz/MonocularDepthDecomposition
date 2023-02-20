@@ -1,7 +1,7 @@
 # Monocular Depth Decomposition of Semi-Transparent Volume Renderings
 This is the official PyTorch code for our Paper.
 
-### [Project Page](https://dominikengel.com/stdepth) | [Paper](TODO) | [Pre-Print (Open Access)](https://arxiv.org/abs/2206.13282)
+### [Project Page](https://dominikengel.com/stdepth) | [Paper]([TODO](https://ieeexplore.ieee.org/document/10045018)) | [Pre-Print (Open Access)](https://arxiv.org/abs/2206.13282)
 
 If you find our work useful, please cite our paper:
 ```bibtex
